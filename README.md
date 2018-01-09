@@ -1,7 +1,11 @@
+SparkFun Melexis MLX90632 Interface Library
 ===========================================================
 
+![SparkFun Infrared Non-contact Thermometer (Qwiic) - MLX90632](https://cdn.sparkfun.com//assets/parts/1/2/7/0/3/14569-MLX90632-Qwiic-01.jpg)
 
+[*SparkX Infrared Non-contact Thermometer (Qwiic) - MLX90632 (SPX-14569)*](https://www.sparkfun.com/products/14569)
 
+The SparkFun Infrared Non-contact Thermometer uses the MLX90632 FIR sensor to detect surface temperature without touching the object. This gives you amazing 1 C prescision from a distance of a few inches.
 
 Library written by Nathan Seidle ([SparkFun](http://www.sparkfun.com)).
 
@@ -17,6 +21,7 @@ Documentation
 --------------
 
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
+* **[Product Repository](https://github.com/sparkfunX/Qwiic_NonContact_Thermo_MLX90632)** - Main repository (including hardware files)
 
 License Information
 -------------------
